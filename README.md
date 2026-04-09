@@ -34,4 +34,5 @@ Estudante de Ciência da Computação na UniCEUB, focado no desenvolvimento de c
 > — **Jaciano**, Supervisor de Licitações.
 
 ## 5. Habilidades e Competências (Apresentação Visual)
-[Link para o PDF/Slides de Apresentação]
+[portfolioHUB João Batista Moreira Neto.pdf](https://github.com/user-attachments/files/26614538/portfolioHUB.Joao.Batista.Moreira.Neto.pdf)]
+

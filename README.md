@@ -9,7 +9,7 @@ Estudante de Ciência da Computação na UniCEUB, focado no desenvolvimento de c
 
 ### Formação Acadêmica
 * **Bacharelado em Ciência da Computação** – UniCEUB (Em andamento)
-* **Educação Básica** – Concluída via ENCCEJA
+* **Educação Básica** – Concluído
 
 ### Experiência Profissional
 **Analista de Licitações e Editais**
@@ -18,7 +18,7 @@ Estudante de Ciência da Computação na UniCEUB, focado no desenvolvimento de c
 
 ### Habilidades Técnicas
 * **Linguagens:** Lógica de programação em C e Python.
-* **Ferramentas:** Git, GitHub e VS Code.
+* **Ferramentas:** GitHub e VS Code.
 * **Hardware:** Montagem e otimização de sistemas de alta performance.
 
 ### Idiomas
